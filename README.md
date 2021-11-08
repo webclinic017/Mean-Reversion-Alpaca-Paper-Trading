@@ -1,2 +1,2 @@
 # Villa
-Stock Trading Algorithim for Alpaca API
+Stock Trading Algorithm for Alpaca API
