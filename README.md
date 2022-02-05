@@ -1,5 +1,8 @@
-# Algo Trading - Mean Reversion
+# Paper Algo Trading - Mean Reversion
 
-Inside this github is a base connection for Python Alpaca API
-Utilizing basic buy options to Paper Trading account
+# Trade.py
+Inside this file is a base connection for Python Alpaca API
+Utilizing basic buy orders to Paper Trading account
 
+# Reversion.cs
+Mean Reversion attached for paper trading accounts on market open to market close.
