@@ -1,5 +1,7 @@
 # Algo Trading - Mean Reversion
-Mean Reversion Gist
+Inside this github is a base connection for Python Alpca API
+
+Mean Reversion Gist Below:
 
 https://gist.github.com/ja-pavi/70efe49e58dc8caa062b70dc402026b6
 
