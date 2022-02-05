@@ -1,4 +1,4 @@
-# Algo Trading - Mean Reversion
+# Paper Algo Trading - Mean Reversion
 
 # Trade.py
 Inside this file is a base connection for Python Alpaca API
